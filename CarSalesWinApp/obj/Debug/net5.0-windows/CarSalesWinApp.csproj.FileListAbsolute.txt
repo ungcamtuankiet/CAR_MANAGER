@@ -1,0 +1,259 @@
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\CarSalesWinApp.exe
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\CarSalesWinApp.deps.json
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\CarSalesWinApp.runtimeconfig.json
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\CarSalesWinApp.runtimeconfig.dev.json
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\CarSalesWinApp.dll
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\ref\CarSalesWinApp.dll
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\CarSalesWinApp.pdb
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.csproj.AssemblyReference.cache
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.AssemblyInfoInputs.cache
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.AssemblyInfo.cs
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.csproj.CoreCompileInputs.cache
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.dll
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\ref\CarSalesWinApp.dll
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.pdb
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.genruntimeconfig.cache
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\appsettings.json
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Azure.Core.dll
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Azure.Identity.dll
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\BusinessObject.dll
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\DataAccess.dll
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\BusinessObject.pdb
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\DataAccess.pdb
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.csproj.CopyComplete
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.LoginForm.resources
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.MainForm.resources
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.csproj.GenerateResource.cache
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.CarsForm.resources
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.CarInsertUpdateForm.resources
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.Properties.Resources.resources
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.ManufacturersForm.resources
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.ManufacturerInsertUpdateForm.resources
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.CustomerForm.resources
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.CustomerInsertUpdateForm.resources
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.InvoicesForm.resources
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.InvoiceDetailInsertUpdateForm.resources
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.InvoiceCreateForm.resources
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.InvoiceDetailForm.resources
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.StatisticForm.resources
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\appsettings.json
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\CarSalesWinApp.exe
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\CarSalesWinApp.deps.json
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\CarSalesWinApp.runtimeconfig.json
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\CarSalesWinApp.runtimeconfig.dev.json
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\CarSalesWinApp.dll
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\ref\CarSalesWinApp.dll
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\CarSalesWinApp.pdb
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Azure.Core.dll
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Azure.Identity.dll
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\BusinessObject.dll
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\DataAccess.dll
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\BusinessObject.pdb
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\DataAccess.pdb
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.csproj.AssemblyReference.cache
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.CarInsertUpdateForm.resources
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.CarsForm.resources
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.CustomerForm.resources
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.CustomerInsertUpdateForm.resources
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.InvoiceCreateForm.resources
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.InvoiceDetailForm.resources
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.InvoiceDetailInsertUpdateForm.resources
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.InvoicesForm.resources
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.LoginForm.resources
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.MainForm.resources
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.ManufacturerInsertUpdateForm.resources
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.ManufacturersForm.resources
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.Properties.Resources.resources
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.StatisticForm.resources
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.csproj.GenerateResource.cache
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.AssemblyInfoInputs.cache
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.AssemblyInfo.cs
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.csproj.CoreCompileInputs.cache
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.dll
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\ref\CarSalesWinApp.dll
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.pdb
+E:\Sile PRN\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.genruntimeconfig.cache
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\appsettings.json
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\CarSalesWinApp.exe
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\CarSalesWinApp.deps.json
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\CarSalesWinApp.runtimeconfig.json
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\CarSalesWinApp.runtimeconfig.dev.json
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\CarSalesWinApp.dll
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\CarSalesWinApp.pdb
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Azure.Core.dll
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Azure.Identity.dll
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\BusinessObject.dll
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\DataAccess.dll
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\BusinessObject.pdb
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\bin\Debug\net5.0-windows\DataAccess.pdb
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.csproj.AssemblyReference.cache
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.CarInsertUpdateForm.resources
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.CarsForm.resources
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.CustomerForm.resources
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.CustomerInsertUpdateForm.resources
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.InvoiceCreateForm.resources
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.InvoiceDetailForm.resources
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.InvoiceDetailInsertUpdateForm.resources
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.InvoicesForm.resources
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.LoginForm.resources
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.MainForm.resources
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.ManufacturerInsertUpdateForm.resources
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.ManufacturersForm.resources
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.Properties.Resources.resources
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.StatisticForm.resources
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.csproj.GenerateResource.cache
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.AssemblyInfoInputs.cache
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.AssemblyInfo.cs
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.csproj.CoreCompileInputs.cache
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.csproj.CopyComplete
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.dll
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\refint\CarSalesWinApp.dll
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.pdb
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.genruntimeconfig.cache
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\CarSalesWinApp\obj\Debug\net5.0-windows\ref\CarSalesWinApp.dll
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\appsettings.json
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\CarSalesWinApp.exe
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\CarSalesWinApp.deps.json
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\CarSalesWinApp.runtimeconfig.json
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\CarSalesWinApp.runtimeconfig.dev.json
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\CarSalesWinApp.dll
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\CarSalesWinApp.pdb
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\Azure.Core.dll
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\Azure.Identity.dll
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\BusinessObject.dll
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\DataAccess.dll
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\BusinessObject.pdb
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\bin\Debug\net5.0-windows\DataAccess.pdb
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.csproj.AssemblyReference.cache
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.CarInsertUpdateForm.resources
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.CarsForm.resources
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.CustomerForm.resources
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.CustomerInsertUpdateForm.resources
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.InvoiceCreateForm.resources
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.InvoiceDetailForm.resources
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.InvoiceDetailInsertUpdateForm.resources
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.InvoicesForm.resources
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.LoginForm.resources
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.MainForm.resources
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.ManufacturerInsertUpdateForm.resources
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.ManufacturersForm.resources
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.Properties.Resources.resources
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.StatisticForm.resources
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.csproj.GenerateResource.cache
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.AssemblyInfoInputs.cache
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.AssemblyInfo.cs
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.csproj.CoreCompileInputs.cache
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.csproj.CopyComplete
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.dll
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\obj\Debug\net5.0-windows\refint\CarSalesWinApp.dll
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.pdb
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\obj\Debug\net5.0-windows\CarSalesWinApp.genruntimeconfig.cache
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\CarSalesWinApp\obj\Debug\net5.0-windows\ref\CarSalesWinApp.dll

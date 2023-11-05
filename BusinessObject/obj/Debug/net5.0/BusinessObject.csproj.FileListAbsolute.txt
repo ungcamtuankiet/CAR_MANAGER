@@ -1,0 +1,47 @@
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\BusinessObject\bin\Debug\net5.0\ref\BusinessObject.dll
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
+E:\FPT_CN5\PRN211\Save Apps\Group_Project\Project_Group8_Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+E:\Sile PRN\Project_Group8_Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+E:\Sile PRN\Project_Group8_Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+E:\Sile PRN\Project_Group8_Solution\BusinessObject\bin\Debug\net5.0\ref\BusinessObject.dll
+E:\Sile PRN\Project_Group8_Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+E:\Sile PRN\Project_Group8_Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+E:\Sile PRN\Project_Group8_Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sile PRN\Project_Group8_Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+E:\Sile PRN\Project_Group8_Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+E:\Sile PRN\Project_Group8_Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+E:\Sile PRN\Project_Group8_Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+E:\Sile PRN\Project_Group8_Solution\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
+E:\Sile PRN\Project_Group8_Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\BusinessObject\obj\Debug\net5.0\refint\BusinessObject.dll
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+C:\Users\SURFACE LAPTOP\source\repos\Project_Group8_Solution\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\BusinessObject\obj\Debug\net5.0\refint\BusinessObject.dll
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+C:\Learning\C#\.NET_MVC\CAR_MANAGER\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
